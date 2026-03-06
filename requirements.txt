@@ -46,6 +46,7 @@ httpx==0.28.1
 httpx-sse==0.4.3
 huggingface-hub==0.36.0
 idna==3.11
+iniconfig==2.3.0
 ipykernel==7.1.0
 ipython==8.38.0
 itsdangerous==2.2.0
@@ -110,9 +111,11 @@ pdfplumber==0.11.9
 pexpect==4.9.0
 pillow==12.1.0
 platformdirs==4.5.1
+pluggy==1.6.0
 prompt_toolkit==3.0.52
 propcache==0.4.1
 psutil==7.2.1
+psycopg2-binary==2.9.11
 ptyprocess==0.7.0
 pure_eval==0.2.3
 py-cpuinfo==9.0.0
@@ -125,6 +128,7 @@ Pygments==2.19.2
 pyparsing==3.3.2
 pypdf==6.6.2
 pypdfium2==5.3.0
+pytest==9.0.2
 python-dateutil==2.9.0.post0
 python-dotenv==1.2.1
 python-jose==3.5.0
@@ -153,6 +157,7 @@ tenacity==9.1.2
 threadpoolctl==3.6.0
 tiktoken==0.12.0
 tokenizers==0.22.2
+tomli==2.4.0
 torch==2.9.1
 tornado==6.5.4
 tqdm==4.67.1
